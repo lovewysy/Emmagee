@@ -1,3 +1,4 @@
+## Emmagee Android Studio版本，本来是编译为了Android TV，后面发现TV是支持的
 ## Emmagee - a practical, handy performance test tool for specified Android App
 
 Emmagee is a practical, handy performance test tool for specified Android App, which can monitor CPU, memory, 
